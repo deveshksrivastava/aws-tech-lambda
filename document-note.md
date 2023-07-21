@@ -16,3 +16,9 @@ some of command of serverless:
 3.serverless deploy: elp to deploy whole
 4.serverless deploy function -f functionName: helps to deploy single fuction
 5.serverless config credentials --list : helps to check serverless credential list
+
+some of command for aws-console:
+1.aws configure list : show the aws configure credentails
+2.aws configure : to configure aws console with access_key and secret_key
+3.aws lambda list-functions : show the lambda function
+4.aws lambda list-functions --region <your-preferred-region> : show the lambda fuction of specific region
