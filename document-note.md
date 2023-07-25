@@ -27,3 +27,5 @@
 3.aws lambda list-functions : show the lambda function
 4.aws lambda list-functions --region <your-preferred-region> : show the lambda fuction of specific region
 ```
+
+[Youtube Video Serverless for this project](https://www.youtube.com/watch?v=dMVfqCTzuwk)
